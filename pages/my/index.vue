@@ -30,6 +30,16 @@
         <u-cell-item icon="setting" title="设置"></u-cell-item>
       </u-cell-group>
     </view>
+    <view class="u-m-t-20">
+      <u-cell-group>
+        <u-cell-item icon="" title="时间原因未来的及重构当前页面,敬请期待"></u-cell-item>
+      </u-cell-group>
+    </view>
+    <view class="u-m-t-20">
+      <u-cell-group>
+        <u-cell-item icon="" title="vue-mall-beautiful基于uview开发"></u-cell-item>
+      </u-cell-group>
+    </view>
   </view>
 </template>
 

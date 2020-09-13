@@ -5,7 +5,7 @@
   "pages": [{
     "path": "pages/index/index",
     "style": {
-      "navigationBarTitleText": "首页"
+      "navigationStyle": "custom"
     }
   }, {
     "path": "pages/classifications/index",
@@ -35,13 +35,13 @@
   }],
   "globalStyle": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uView",
+    "navigationBarTitleText": "vue-mall-beautiful",
     "navigationBarBackgroundColor": "#FFFFFF",
     "backgroundColor": "#FFFFFF"
   },
   "tabBar": {
     "color": "#909399",
-    "selectedColor": "#303133",
+    "selectedColor": "#ff3131",
     "backgroundColor": "#FFFFFF",
     "borderStyle": "black",
     "list": [{
