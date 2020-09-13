@@ -1,0 +1,69 @@
+{
+  "easycom": {
+    "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+  },
+  "pages": [{
+    "path": "pages/index/index",
+    "style": {
+      "navigationBarTitleText": "首页"
+    }
+  }, {
+    "path": "pages/classifications/index",
+    "style": {
+      "navigationBarTitleText": "分类"
+    }
+  }, {
+    "path": "pages/shoppingCart/index",
+    "style": {
+      "navigationBarTitleText": "购物车"
+    }
+  }, {
+    "path": "pages/my/index",
+    "style": {
+      "navigationBarTitleText": "我的"
+    }
+  }, {
+    "path": "pages/my/address",
+    "style": {
+      "navigationBarTitleText": "收货地址"
+    }
+  }, {
+    "path": "pages/my/addSite",
+    "style": {
+      "navigationBarTitleText": "添加收货地址"
+    }
+  }],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath": "static/navs/index.png",
+      "selectedIconPath": "static/navs/index_select.png",
+      "text": "首页"
+    }, {
+      "pagePath": "pages/classifications/index",
+      "iconPath": "static/navs/classifications.png",
+      "selectedIconPath": "static/navs/classifications_select.png",
+      "text": "分类"
+    }, {
+      "pagePath": "pages/shoppingCart/index",
+      "iconPath": "static/navs/shoppingCart.png",
+      "selectedIconPath": "static/navs/shoppingCart_select.png",
+      "text": "购物车"
+    }, {
+      "pagePath": "pages/my/index",
+      "iconPath": "static/navs/my.png",
+      "selectedIconPath": "static/navs/my_select.png",
+      "text": "我的"
+    }]
+  }
+}
