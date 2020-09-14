@@ -1,8 +1,8 @@
 {
-    "name" : "uView UI重磅更新，已全面完美兼容头条系小程序示例",
-    "appid" : "__UNI__E36F00F",
-    "description" : "多平台快速开发的UI框架",
-    "versionName" : "1.6.8",
+    "name" : "vue-mall-beautiful",
+    "appid" : "",
+    "description" : "",
+    "versionName" : "1.0.0",
     "versionCode" : "100",
     "transformPx" : false,
     "app-plus" : {
