@@ -175,7 +175,7 @@
       padding: 0 25rpx;
       background: linear-gradient(to right, #ff6034, #ee0a24);
       height: 300rpx;
-      border-radius: 0 0 30px 30px;
+      border-radius: 0 0 50rpx 50rpx;
       width: 100%;
       position: fixed;
 
